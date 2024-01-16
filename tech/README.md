@@ -2,12 +2,12 @@
 
 ### blog
 
-| Website naem | URL                         | Status  |
-| :----------- | --------------------------- | ------- |
-| Zenn         | https://zenn.dev            | Not yet |
-| Qiita        | https://qiita.com/          | Not yet |
-| DevelopersIO | https://dev.classmethod.jp/ | Not yet |
-| iFixit       | https://jp.ifixit.com/      | Not yet |
+| Website naem | URL                         | Status   |
+| :----------- | --------------------------- | -------- |
+| Zenn         | https://zenn.dev            | Notebook |
+| Qiita        | https://qiita.com/          | Not yet  |
+| DevelopersIO | https://dev.classmethod.jp/ | Not yet  |
+| iFixit       | https://jp.ifixit.com/      | Not yet  |
 
 
 ### doc
